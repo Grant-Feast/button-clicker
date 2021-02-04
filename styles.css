@@ -1,0 +1,15 @@
+body {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.1em;
+}
+
+h1 {
+  text-align: center;
+}
+
+.btn {
+  padding: 50px;
+  margin: 10px;
+}
